@@ -44,7 +44,7 @@ Feel free to explore, use, or build upon this. Feedback and ideas are welcome!
 ---
 
 **Built with courage by**  
-**Aditya** – Future Lord of the Frontend
+**CyberNova** – Future Lord of the Frontend
 
 
 
