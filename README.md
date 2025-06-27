@@ -24,8 +24,6 @@ This project helped me learn about:
 ---
 
 
----
-
 ## 🚀 Next Steps
 
 - [ ] Add CSS to style the form like a royal parchment scroll  
